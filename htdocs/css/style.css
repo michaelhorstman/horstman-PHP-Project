@@ -1,0 +1,175 @@
+.navbar-inverse {
+	padding-bottom: 18px;
+}
+
+.navbar-header {
+	margin-top: 10px;
+}
+
+.navbar-header a {
+	color: white;
+	font-size: 2.0em;
+	padding-right: 50px;
+	text-decoration: none;
+}
+
+.nav li a {
+	margin-top: 10px;
+	color: white;
+	font-size: 1.2em;
+}
+
+.nav li a:hover {
+	background: #33cc33;
+	background-color: #33cc33;
+}
+
+.nav li a:active {
+	background: #33cc33;
+	background-color: #33cc33;
+}
+
+h1 {
+	padding-left: 8px
+}
+
+
+.row {
+	padding-top: 75px;
+}
+
+.row p {
+	padding: 12px;
+}
+
+#louisville-img {
+	max-width: 625px;
+	margin-top: 2px;
+	padding-left: 10%
+}
+
+#google-img {
+	max-width: 625px;
+	padding-left: 10%;
+}
+
+#supporters-body {
+	overflow: hidden;
+}
+
+#supporters {
+	text-align: center;
+}
+
+#supporters-scroll {
+	max-height: 500px;
+	overflow: scroll;
+}
+
+#form-button {
+	margin-left: 33.3%;
+	margin-right: 33.3%;
+	min-width: 33.3%;
+}
+
+#supporter-list {
+	text-align: center;
+	font-size: 1.8em;
+}
+
+
+#add-name {
+	text-align: left;
+	background-color: lightgrey;
+	font-weight: bold;
+	margin-right: 20%; 
+}
+
+
+#supporters-header {
+	color: #00cc00;
+	font-weight: bold;
+	font-size: 42px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*MEDIA QUERIES
+////////////////*/
+
+
+
+@media (max-width: 990px) {
+	#form-col {
+		padding-left: 20%;
+		padding-right: 20%;
+	}
+
+}
+
+
+
+@media (max-width: 762px) {
+
+	#google-img {
+		max-height: 400px;
+		padding-left: 10%
+	}
+
+	#louisville-img {
+		margin-top: 5px;
+		max-height:400px;
+		margin-bottom: 20px;
+		padding-left: 10%;
+	}
+
+	.navbar-header a {
+		padding-right: 2px;
+	}
+
+	.navbar-header {
+		padding-left: 20px
+	}
+}
+
+
+
+
+@media (max-width: 520px) {
+
+	#google-img {
+		max-height: 225px;
+		padding-left: 0%;
+	}
+
+	#louisville-img {
+		max-height: 225px;
+		padding-left: 0%;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
