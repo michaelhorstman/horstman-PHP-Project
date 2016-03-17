@@ -71,7 +71,7 @@ Latest compiled and minified bootstrap
 
     <div class="col-md-3">
 
-      <div id="add-name-div">
+      <div class="center-block" id="add-name-div">
         <p id="add-name">
           If you support Google Fiber coming to Louisville, you can add your name on the "Add your name" page!
         </p>

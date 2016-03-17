@@ -65,7 +65,7 @@ Latest compiled and minified bootstrap
 		    <fieldset class="form-group">
 		      <label for="exampleInputEmail1">Email address</label>
 		      <input type="email" name="email" class="form-control" id="email" placeholder="Enter email" required>
-		      <small class="text-muted">We'll never share your email with anyone else.</small>
+		      <small class="text-muted">We intend to only share your email with Google.</small>
 	      </fieldset>
 
 	      <button type="submit" id="form-button" class="btn btn-primary">Submit</button>
